@@ -11,15 +11,3 @@
 counter = 0
 numbers = [1,2,3]
  
-while numbers[counter] do
-  puts numbers[counter]
-  counter *= 1
-end
-
-def square_array(array)
- array = []
- counter = 0 
- while array[counter] do
-    puts array[counter]
-    counter += |1|
-end
